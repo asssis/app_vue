@@ -2,9 +2,9 @@
 
 ## Rodar Projeto
 
-instalar o docker
-instalar o docker-compose
-rodar o comando
+* instalar o docker
+* instalar o docker-compose
+* rodar o comando abaixo
 ```
  docker-compose up
 ```
