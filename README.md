@@ -1,5 +1,13 @@
 # app_vue
 
+## Rodar Projeto
+
+instalar o docker
+instalar o docker-compose
+rodar o comando
+```
+ docker-compose up
+```
 ## Project setup
 ```
 npm install
